@@ -4,7 +4,7 @@
 #
 Name     : keyring
 Version  : 23.2.1
-Release  : 104
+Release  : 105
 URL      : https://files.pythonhosted.org/packages/cc/24/c5402ba0c6380cc058980e2b73f0597ab6875692f185054a94244b7161ab/keyring-23.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/cc/24/c5402ba0c6380cc058980e2b73f0597ab6875692f185054a94244b7161ab/keyring-23.2.1.tar.gz
 Summary  : Store and access your passwords safely.
